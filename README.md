@@ -12,10 +12,10 @@ React JS – Frontend library
 Tailwind CSS – Utility-first CSS framework
 
 ## Installation & Setup
-git clone https://github.com/your-username/notes-app.git
-cd notes-app
-npm install
-npm run dev
+1. git clone https://github.com/your-username/notes-app.git
+2. cd notes-app
+3. npm install
+4. npm run dev
 
 ## How It Works
 Notes are managed using React state (useState)
