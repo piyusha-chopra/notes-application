@@ -35,7 +35,7 @@ Notes are managed using React state (useState)
 Users can add and delete notes dynamically
 
 ##Future Improvements
-💾 Add Local Storage support for persistence
-✏️ Edit notes
-🔍 Search notes
-🌙 Dark mode
+- Add Local Storage support for persistence
+- Edit notes
+- Search notes
+- Dark mode
